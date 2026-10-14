@@ -10,13 +10,8 @@ import {
   Send,
   Plus,
   Receipt,
-  ShieldCheck,
-  CheckCircle,
-  Briefcase,
-  ChevronRight,
   PieChart,
   Wallet,
-  ArrowUpRight,
   ArrowDownLeft,
 } from "lucide-react";
 
